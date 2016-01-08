@@ -1,0 +1,2 @@
+1. Google Serach API is deprecated now, shift to custom search.
+2. Use ReGex (or use web crawler) to extract paragraphs from URL.
